@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment Variables and Credentials
+.env
+.env.*
+!.env.example
+
+# Build files
+client/build/
+build/
+dist/
+
+# OS/Editor Files
+.DS_Store
+.vscode/
+*.logREADME.md
